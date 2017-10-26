@@ -1,0 +1,35 @@
+C:\Users\Guillermo\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Guillermo\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Guillermo\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Guillermo\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Guillermo\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Guillermo\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Guillermo\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Guillermo\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Guillermo\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\mayra\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\mayra\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\mayra\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\mayra\Desktop\tp_laboratorio_2\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\mayra\Desktop\tp_laboratorio_2\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\mayra\Desktop\tp_laboratorio_2\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\mayra.ariana.alvarez\Downloads\tp_laboratorio_2-master\tp_laboratorio_2-master\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\mayra.ariana.alvarez\Downloads\tp_laboratorio_2-master\tp_laboratorio_2-master\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\mayra.ariana.alvarez\Downloads\tp_laboratorio_2-master\tp_laboratorio_2-master\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\mayra.ariana.alvarez\Downloads\tp_laboratorio_2-master\tp_laboratorio_2-master\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\mayra.ariana.alvarez\Downloads\tp_laboratorio_2-master\tp_laboratorio_2-master\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\mayra.ariana.alvarez\Downloads\tp_laboratorio_2-master\tp_laboratorio_2-master\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\mayra.ariana.alvarez\Downloads\tp_laboratorio_2-master\tp_laboratorio_2-master\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\mayra.ariana.alvarez\Downloads\tp_laboratorio_2-master\tp_laboratorio_2-master\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\mayra.ariana.alvarez\Downloads\tp_laboratorio_2-master\tp_laboratorio_2-master\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\mayra.ariana.alvarez\Downloads\tp_laboratorio_2-master\tp_laboratorio_2-master\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\mayra.ariana.alvarez\Desktop\RecuperatoriosTP\TP1\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\mayra.ariana.alvarez\Desktop\RecuperatoriosTP\TP1\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\mayra.ariana.alvarez\Desktop\RecuperatoriosTP\TP1\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\mayra.ariana.alvarez\Desktop\RecuperatoriosTP\TP1\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\mayra.ariana.alvarez\Desktop\RecuperatoriosTP\TP1\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\mayra.ariana.alvarez\Desktop\RecuperatoriosTP\TP1\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\mayra.ariana.alvarez\Desktop\RecuperatoriosTP\TP1\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\mayra.ariana.alvarez\Desktop\RecuperatoriosTP\TP1\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\mayra.ariana.alvarez\Desktop\RecuperatoriosTP\TP1\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\mayra.ariana.alvarez\Desktop\RecuperatoriosTP\TP1\Calculadora\obj\Debug\Calculadora.pdb
