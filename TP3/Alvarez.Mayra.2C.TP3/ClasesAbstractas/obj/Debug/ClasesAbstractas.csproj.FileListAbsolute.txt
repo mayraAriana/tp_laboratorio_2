@@ -1,0 +1,22 @@
+C:\Users\mayra\Documents\Visual Studio 2012\Projects\Alvarez.Mayra.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\mayra\Documents\Visual Studio 2012\Projects\Alvarez.Mayra.2C.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\mayra\Documents\Visual Studio 2012\Projects\Alvarez.Mayra.2C.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\mayra\Documents\Visual Studio 2012\Projects\Alvarez.Mayra.2C.TP3\ClasesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\mayra\Documents\Visual Studio 2012\Projects\Alvarez.Mayra.2C.TP3\ClasesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\mayra\Documents\Visual Studio 2012\Projects\Alvarez.Mayra.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\mayra\Documents\Visual Studio 2012\Projects\Alvarez.Mayra.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
+E:\Alvarez.Mayra.2C.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+E:\Alvarez.Mayra.2C.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+E:\Alvarez.Mayra.2C.TP3\ClasesAbstractas\bin\Debug\Excepciones.dll
+E:\Alvarez.Mayra.2C.TP3\ClasesAbstractas\bin\Debug\Excepciones.pdb
+E:\Alvarez.Mayra.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojResolveAssemblyReference.cache
+E:\Alvarez.Mayra.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+E:\Alvarez.Mayra.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
+C:\Users\mayra.ariana.alvarez\Downloads\Alvarez.Mayra.2C.TP3-20171025T114009Z-001\Alvarez.Mayra.2C.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\mayra.ariana.alvarez\Downloads\Alvarez.Mayra.2C.TP3-20171025T114009Z-001\Alvarez.Mayra.2C.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\mayra.ariana.alvarez\Downloads\Alvarez.Mayra.2C.TP3-20171025T114009Z-001\Alvarez.Mayra.2C.TP3\ClasesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\mayra.ariana.alvarez\Downloads\Alvarez.Mayra.2C.TP3-20171025T114009Z-001\Alvarez.Mayra.2C.TP3\ClasesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\mayra.ariana.alvarez\Downloads\Alvarez.Mayra.2C.TP3-20171025T114009Z-001\Alvarez.Mayra.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\mayra.ariana.alvarez\Downloads\Alvarez.Mayra.2C.TP3-20171025T114009Z-001\Alvarez.Mayra.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\mayra.ariana.alvarez\Downloads\Alvarez.Mayra.2C.TP3-20171025T114009Z-001\Alvarez.Mayra.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\mayra.ariana.alvarez\Downloads\Alvarez.Mayra.2C.TP3-20171025T114009Z-001\Alvarez.Mayra.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb

@@ -1,0 +1,10 @@
+C:\Users\mayra\Documents\Visual Studio 2012\Projects\Alvarez.Mayra.2C.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\mayra\Documents\Visual Studio 2012\Projects\Alvarez.Mayra.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\mayra\Documents\Visual Studio 2012\Projects\Alvarez.Mayra.2C.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\mayra\Documents\Visual Studio 2012\Projects\Alvarez.Mayra.2C.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\mayra.ariana.alvarez\Downloads\Alvarez.Mayra.2C.TP3-20171025T114009Z-001\Alvarez.Mayra.2C.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\mayra.ariana.alvarez\Downloads\Alvarez.Mayra.2C.TP3-20171025T114009Z-001\Alvarez.Mayra.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\mayra.ariana.alvarez\Downloads\Alvarez.Mayra.2C.TP3-20171025T114009Z-001\Alvarez.Mayra.2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\mayra.ariana.alvarez\Downloads\Alvarez.Mayra.2C.TP3-20171025T114009Z-001\Alvarez.Mayra.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\mayra.ariana.alvarez\Downloads\Alvarez.Mayra.2C.TP3-20171025T114009Z-001\Alvarez.Mayra.2C.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\mayra.ariana.alvarez\Downloads\Alvarez.Mayra.2C.TP3-20171025T114009Z-001\Alvarez.Mayra.2C.TP3\Archivos\obj\Debug\Archivos.pdb
