@@ -81,6 +81,31 @@ namespace ClasesAbstractas
             return !(pg1 == pg2);
         }
 
+        /// <summary>
+        /// Equals
+        /// </summary>
+        /// <param name="obj"></param>
+        /// <returns></returns>
+        public override bool Equals(object obj)
+        {
+            if (obj == null || GetType() != obj.GetType())
+            {
+                return false;
+            }
+            throw new NotImplementedException();
+            return base.Equals(obj);
+        }
+
+
+        /// <summary>
+        /// Equals
+        /// </summary>
+        /// <returns></returns>
+        public override int GetHashCode()
+        {
+            throw new NotImplementedException();
+            return base.GetHashCode();
+        }
         #endregion
 
     }

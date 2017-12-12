@@ -21,3 +21,15 @@ C:\Users\mayra.ariana.alvarez\Downloads\Alvarez.Mayra.2C.TP3-20171025T114009Z-00
 C:\Users\mayra.ariana.alvarez\Downloads\Alvarez.Mayra.2C.TP3-20171025T114009Z-001\Alvarez.Mayra.2C.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CoreCompileInputs.cache
 C:\Users\mayra.ariana.alvarez\Downloads\Alvarez.Mayra.2C.TP3-20171025T114009Z-001\Alvarez.Mayra.2C.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
 C:\Users\mayra.ariana.alvarez\Downloads\Alvarez.Mayra.2C.TP3-20171025T114009Z-001\Alvarez.Mayra.2C.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb
+C:\Users\mayra.ariana.alvarez\Documents\GitHub\tp_laboratorio_2\TP3\Alvarez.Mayra.2C.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+C:\Users\mayra.ariana.alvarez\Documents\GitHub\tp_laboratorio_2\TP3\Alvarez.Mayra.2C.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+C:\Users\mayra.ariana.alvarez\Documents\GitHub\tp_laboratorio_2\TP3\Alvarez.Mayra.2C.TP3\ClasesInstanciables\bin\Debug\Archivos.dll
+C:\Users\mayra.ariana.alvarez\Documents\GitHub\tp_laboratorio_2\TP3\Alvarez.Mayra.2C.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.dll
+C:\Users\mayra.ariana.alvarez\Documents\GitHub\tp_laboratorio_2\TP3\Alvarez.Mayra.2C.TP3\ClasesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\mayra.ariana.alvarez\Documents\GitHub\tp_laboratorio_2\TP3\Alvarez.Mayra.2C.TP3\ClasesInstanciables\bin\Debug\Archivos.pdb
+C:\Users\mayra.ariana.alvarez\Documents\GitHub\tp_laboratorio_2\TP3\Alvarez.Mayra.2C.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.pdb
+C:\Users\mayra.ariana.alvarez\Documents\GitHub\tp_laboratorio_2\TP3\Alvarez.Mayra.2C.TP3\ClasesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\mayra.ariana.alvarez\Documents\GitHub\tp_laboratorio_2\TP3\Alvarez.Mayra.2C.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojResolveAssemblyReference.cache
+C:\Users\mayra.ariana.alvarez\Documents\GitHub\tp_laboratorio_2\TP3\Alvarez.Mayra.2C.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\mayra.ariana.alvarez\Documents\GitHub\tp_laboratorio_2\TP3\Alvarez.Mayra.2C.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+C:\Users\mayra.ariana.alvarez\Documents\GitHub\tp_laboratorio_2\TP3\Alvarez.Mayra.2C.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb

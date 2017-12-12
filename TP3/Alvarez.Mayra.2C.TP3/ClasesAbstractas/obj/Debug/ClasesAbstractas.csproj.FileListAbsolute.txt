@@ -20,3 +20,11 @@ C:\Users\mayra.ariana.alvarez\Downloads\Alvarez.Mayra.2C.TP3-20171025T114009Z-00
 C:\Users\mayra.ariana.alvarez\Downloads\Alvarez.Mayra.2C.TP3-20171025T114009Z-001\Alvarez.Mayra.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CoreCompileInputs.cache
 C:\Users\mayra.ariana.alvarez\Downloads\Alvarez.Mayra.2C.TP3-20171025T114009Z-001\Alvarez.Mayra.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
 C:\Users\mayra.ariana.alvarez\Downloads\Alvarez.Mayra.2C.TP3-20171025T114009Z-001\Alvarez.Mayra.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
+C:\Users\mayra.ariana.alvarez\Documents\GitHub\tp_laboratorio_2\TP3\Alvarez.Mayra.2C.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\mayra.ariana.alvarez\Documents\GitHub\tp_laboratorio_2\TP3\Alvarez.Mayra.2C.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\mayra.ariana.alvarez\Documents\GitHub\tp_laboratorio_2\TP3\Alvarez.Mayra.2C.TP3\ClasesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\mayra.ariana.alvarez\Documents\GitHub\tp_laboratorio_2\TP3\Alvarez.Mayra.2C.TP3\ClasesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\mayra.ariana.alvarez\Documents\GitHub\tp_laboratorio_2\TP3\Alvarez.Mayra.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\mayra.ariana.alvarez\Documents\GitHub\tp_laboratorio_2\TP3\Alvarez.Mayra.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\mayra.ariana.alvarez\Documents\GitHub\tp_laboratorio_2\TP3\Alvarez.Mayra.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\mayra.ariana.alvarez\Documents\GitHub\tp_laboratorio_2\TP3\Alvarez.Mayra.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
